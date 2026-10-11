@@ -1,0 +1,5 @@
+[INFO] Starting reset_sequence_test
+[INFO] Reset deasserted
+ASSERTION FAILED: ready must be high after reset
+[ERROR] Test stopped
+TEST FAIL

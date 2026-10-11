@@ -1,0 +1,4 @@
+[INFO] Starting packet_smoke_test
+[INFO] Sending 10 packets
+[INFO] Received 10 packets
+TEST PASS

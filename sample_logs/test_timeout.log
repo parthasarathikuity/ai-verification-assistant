@@ -1,0 +1,4 @@
+[INFO] Starting completion_test
+[WARNING] Completion event has not arrived
+ERROR: Timeout waiting for completion
+TEST FAIL
